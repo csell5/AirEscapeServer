@@ -12,7 +12,7 @@ function pushDoc(document) {
 }
 
 App.onLaunch = function(options) {
-    var templateURL = 'Enter path to your server here/alertTemplate.tvml';
+    var templateURL = 'http://airescape-54278.onmodulus.net/default.tvml';
     getDocument(templateURL);
 }
 
