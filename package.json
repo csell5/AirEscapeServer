@@ -1,0 +1,10 @@
+{
+  "name": "AirEscapeServer",
+  "version": "0.0.1",
+  "description": "The Server Yo.",
+  "main": "default.js",
+  "dependencies" : {
+  },
+  "engines" : {
+  }
+}
